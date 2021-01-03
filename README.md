@@ -1,6 +1,6 @@
 # Go ROBOTS!
 
-![Menu Image](https://github.com/thiagobergami/go-robots/blob/master/img/menu.png = 800x700)
+<img src="https://github.com/thiagobergami/go-robots/blob/master/img/menu.png" width="600" height="500">
 
 Shooter 3D desenvolvido em Unity versão 1.0.0.
 
