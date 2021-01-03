@@ -8,6 +8,8 @@ Apenas Script nesse repositório.
 
 Você pode experimentar esse projeto no: 
 
-![Itch Image](https://github.com/thiagobergami/go-robots/blob/master/img/itch.png)(https://thiagobergami.itch.io/go-robots)
+(https://thiagobergami.itch.io/go-robots)
 
 ![](img/simple.gif)
+
+Enjoy =D
